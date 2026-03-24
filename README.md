@@ -1,44 +1,46 @@
-# Albert Sanchez | Full-Stack Software Architect 🚀
+# Albert Sanchez | Principal Engineer | Sofware Consultant
 
-**Founder of [AceBuddy](https://github.com/acebuddyteam)** | **Harvard CS Professional** | **Top 3 Temenos Global Contributor**
+**Founder of [AceBuddy.net](https://acebuddy.net)** | **Harvard CS Professional** | **Top 3 Temenos Global Contributor**
 
 ---
 
-### 🌐 High-Stakes Software Engineering
-I specialize in building custom architecture for complex operational challenges that off-the-shelf tools cannot solve. My work sits at the intersection of **Scientific Computing**, **Artificial Intelligence**, and **Enterprise Infrastructure**.
+### 🌐 Enterprise & Scientific Software Architecture
+I specialize in building custom solutions for complex operational challenges where off-the-shelf tools fall short. My work focuses on the intersection of **Scientific Computing**, **Artificial Intelligence**, and **Enterprise Infrastructure**.
 
-* **NASA Data Analysis:** Developed neural network applications (Cosmoo) to process TESS and Kepler observations for exoplanet detection.
+* **NASA Data Analysis:** Architected neural network applications (Cosmoo) to process TESS and Kepler observations for exoplanet detection.
 * **Enterprise Architecture:** 2+ years as a leading architect in the **Temenos Quantum** ecosystem, delivering GPS and middleware solutions for global financial and government entities.
 * **Bioinformatics:** Engineering specialized tools for genetic material processing and protein likelihood calculations (DNA-UP).
+* **Data Orchestration:** Extensive experience in **Temenos Fabric**, solving complex XML structure and backend integration bottlenecks.
 
 ---
 
-### 🛠️ Core Stack & Expertise
+### 🎓 Academic & Professional Foundations
+* **Harvard Professional Education in Computer Science:** Deepened expertise in **Computer Science, Web Programming, AI, Cybersecurity, and Python.**
+* **Civil Engineering Background:** Completed 130+ credits focused on Mathematics and Mechanics, providing a rigorous analytical foundation for complex algorithmic logic.
+* **Temenos Base Camp Global Recognition:** Ranked as a **Top 3 Worldwide Contributor** with 9,000+ reputation points for providing peer-validated enterprise solutions.
+
+---
+
+### 🛠️ Technical Stack
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python (Django), JavaScript (Node.js/React), C, SQL |
-| **Databases** | PostgreSQL, MySQL, Relational Schema Design |
-| **Enterprise** | Temenos Fabric, Temenos Quantum, Middleware Orchestration |
-| **Specialized** | Neural Networks, GPS/Pathfinding Algorithms, XML Data Processing |
+| **Backend & Logic** | Python (Django), JavaScript (Node.js), C, SQL |
+| **Frontend & UI** | React, JavaScript, Advanced UI Logic Orchestration |
+| **Databases** | PostgreSQL, MySQL, Relational Schema Architecture |
+| **Enterprise** | Temenos Fabric, Temenos Quantum, Middleware Integration |
 
 ---
 
-### 🏛️ Professional Foundations
-* **Harvard University:** Professional Certificate in Computer Science for Web Programming, AI, and Cybersecurity.
-* **Civil Engineering:** 130+ credits in Mathematics and Mechanics, providing a rigorous analytical foundation for complex software logic.
-* **Temenos Base Camp:** Top 3 Worldwide Contributor (9,000+ points) for peer-validated enterprise solutions.
+### 💼 Portfolio & Private Repositories
+As a lead architect at **AceBuddy**, I manage elite engineering teams delivering end-to-end architecture. While our primary enterprise repositories remain **private for client security and IP protection**, you can explore our full capabilities and case studies on our official site:
 
----
-
-### 📂 Featured Organization Work
-As a lead architect at **AceBuddy**, I manage the core repositories for our most complex client solutions.
-👉 **[Explore AceBuddy Solutions](https://github.com/acebuddyteam)**
+👉 **[Explore our Custom Enterprise Solutions at AceBuddy.net](https://acebuddy.net)**
 
 ---
 
 ### 📫 Let's Connect
-* **Website:** [acebuddy.net](https://acebuddy.net)
 * **LinkedIn:** [linkedin.com/in/albertsanchez-dev](https://linkedin.com/in/albertsanchez-dev)
+* **Official Website:** [acebuddy.net](https://acebuddy.net)
 * **Email:** albert@acebuddy.net
 
-*"More important than the stack is the process: understanding the problem deeply and designing the right system around it."*
+*"Understanding the problem deeply and designing the right system around it is more important than the stack itself."*
