@@ -1,4 +1,4 @@
-# Albert Sanchez | Principal Engineer | Sofware Consultant
+# Albert Sanchez | Principal Engineer | Software Consultant
 
 **Founder of [AceBuddy.net](https://acebuddy.net)** | **Harvard CS Professional** | **Top 3 Temenos Global Contributor**
 
