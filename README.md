@@ -16,7 +16,7 @@ I specialize in building custom solutions for complex operational challenges whe
 
 ### 🎓 Academic & Professional Foundations
 * **Harvard Professional Education in Computer Science:** Deepened expertise in **Computer Science, Web Programming, AI, Cybersecurity, and Python.**
-* **Civil Engineering Background:** Completed 130+ credits focused on Mathematics and Mechanics, providing a rigorous analytical foundation for complex algorithmic logic.
+* **Civil Engineering Background:** Completed 130 credits focused on Mathematics and Mechanics, providing a rigorous analytical foundation for complex algorithmic logic.
 * **Temenos Base Camp Global Recognition:** Ranked as a **Top 3 Worldwide Contributor** with 9,000+ reputation points for providing peer-validated enterprise solutions.
 
 ---
