@@ -39,7 +39,7 @@ As a lead architect at **AceBuddy**, I manage elite engineering teams delivering
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/albertsanchez-dev](https://linkedin.com/in/albertsanchez-dev)
+* **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/al-sanchez-12643b116/)
 * **Official Website:** [acebuddy.net](https://acebuddy.net)
 * **Email:** albert@acebuddy.net
 
